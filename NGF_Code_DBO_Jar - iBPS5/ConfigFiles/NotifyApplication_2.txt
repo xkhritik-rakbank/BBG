@@ -1,0 +1,39 @@
+<EE_EAI_MESSAGE>
+     <EE_EAI_HEADER>
+            <MsgFormat>NOTIFY_APPLICATION</MsgFormat>
+            <MsgVersion>0001</MsgVersion>
+            <RequestorChannelId>CAS</RequestorChannelId>
+            <RequestorUserId>RAKUSER</RequestorUserId>
+            <RequestorLanguage>E</RequestorLanguage>
+            <RequestorSecurityInfo>secure</RequestorSecurityInfo>
+            <ReturnCode>911</ReturnCode>
+            <ReturnDesc>Issuer Timed Out</ReturnDesc>
+            <MessageId>123123453</MessageId>
+            <Extra1>REQ||SHELL.JOHN</Extra1>
+            <Extra2>YYYY-MM-DDThh:mm:ss.mmm+hh:mm</Extra2>
+      </EE_EAI_HEADER>
+      <NotifyApplicationStatusRequest>
+	      <BankId>RAK</BankId>
+	      <Process_Name>DBO</Process_Name>
+	      <ChannelId>DEH</ChannelId>
+	      <WorkitemNumber>Workitem_Number</WorkitemNumber>
+	      <ProspectId>prospect_id</ProspectId>
+		  <TL_Number>TL_Number</TL_Number>
+		  <Trade_Name>Trade_Name</Trade_Name>
+		  <TL_Issuing_Authority>TL_Issuing_Authority</TL_Issuing_Authority>
+		  <TL_Issuing_Authority_Emirate>TL_Issuing_Authority_Emirate</TL_Issuing_Authority_Emirate>
+		  <TL_Expiry_Date>TL_Expiry_Date</TL_Expiry_Date>
+		  <TL_Type_of_Office>TL_Type_of_Office</TL_Type_of_Office>
+		  <License_Type>License_Type</License_Type>
+		  <Country_of_Incorporation>Country_of_Incorporation</Country_of_Incorporation>
+		  <Date_of_incorporation>Date_of_incorporation</Date_of_incorporation>
+		  <Company_Name>Company_Name</Company_Name>
+		  <Company_Short_Name>Company_Short_Name</Company_Short_Name>
+		  <Name_on_Cheque_Book>Name_on_Cheque_Book</Name_on_Cheque_Book>
+		  <Full_Name>Full_Name</Full_Name>
+		  <First_Name>First_Name</First_Name>
+		  <Middle_Name>Middle_Name</Middle_Name> 
+		  <Last_Name>Last_Name</Last_Name>
+		  <Name_on_Debit_Card>Name_on_Debit Card</Name_on_Debit_Card>
+      </NotifyApplicationStatusRequest>
+</EE_EAI_MESSAGE>

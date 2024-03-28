@@ -1,0 +1,68 @@
+
+.bodyIRBL{
+	color: #990033;
+}
+
+.irbl{
+	width:25%;
+	text-align:left;
+	overflow-wrap:break-word;
+	font-weight: bold;
+	
+}
+
+.valueIRBL{
+	color: black;
+	font-weight: normal;
+	overflow-wrap:break-word;	
+}
+
+.tableIRBL{
+	border: 0px solid white; 
+	width:100% !important;
+	table-layout: fixed;
+}
+
+.divIRBL{
+	border-style: solid;
+	border-width: thin;
+	border-color: #990033;
+}
+
+.FinEligibilityIRBL{
+	width:14%;
+	color: black;
+	text-align:left;
+	font-weight: normal;
+	overflow-wrap:break-word;
+}
+
+.colorIRBL{
+	color: #990033;
+	font-weight: bold;
+}
+
+.TableValueIRBL{
+	color:black; 
+	border: 1px solid #000000;
+	text-align:center;
+	overflow-wrap:break-word;
+}
+
+.TableHeaderIRBL{
+	color:white; 
+	border: 1px solid #000000;
+	text-align:center;
+	overflow-wrap:break-word;
+}
+
+.TableHeaderBgIRBL{
+	background-color:#990033;
+}
+
+.tableborder{
+	width:100% !important;
+	border: 1px solid #000000;
+	table-layout: fixed;
+	border-collapse:collapse;
+}

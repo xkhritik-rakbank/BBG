@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Class-Path: . lib/DataEncryption.jar lib/log4j-1.2.14.jar lib/ngejbcal
+ lbroker.jar lib/omnishared.jar lib/SecurityAPI.jar lib/wfdesktop.jar 
+ lib/wfsclient.jar lib/com.ibm.ws.ejb.thinclient_8.5.0.jar lib/stubswf
+ scustom.jar lib/stubwfs.jar lib/Amazon.jar lib/aws-java-sdk-1.11.40.j
+ ar lib/azure-storage-5.0.0.jar lib/commons-io-2.0.1.jar lib/ISPack.ja
+ r lib/jdts.jar lib/NIPLJ.jar lib/nsms.jar lib/commons-codec-1.7.jar l
+ ib/ejb.jar lib/ejbclient.jar lib/stubs.jar lib/itextpdf-5.5.8.jar lib
+ /json-simple-1.1.1.jar lib/guava-17.0.jar lib/poi-3.8-20120326.jar li
+ b/poi-ooxml-3.8-20120326.jar lib/poi-ooxml-schemas-3.8-20120326.jar l
+ ib/dom4j-1.6.jar lib/xmlbeans-2.6.0.jar lib/poi-3.17.jar lib/poi-ooxm
+ l-3.17.jar lib/poi-ooxml-schemas-3.17.jar lib/core-3.3.0.jar lib/java
+ se-3.3.0.jar lib/bcprov-jdk15on-1.70.jar lib/itext-licensekey-1.0.4.j
+ ar
+Created-By: 1.8.0_152 (Oracle Corporation)
+Main-Class: com.newgen.main.StartUtility
+

@@ -1,0 +1,30 @@
+<EE_EAI_MESSAGE>
+     <EE_EAI_HEADER>
+            <MsgFormat>NOTIFY_APPLICATION</MsgFormat>
+            <MsgVersion>0001</MsgVersion>
+            <RequestorChannelId>CAS</RequestorChannelId>
+            <RequestorUserId>RAKUSER</RequestorUserId>
+            <RequestorLanguage>E</RequestorLanguage>
+            <RequestorSecurityInfo>secure</RequestorSecurityInfo>
+            <ReturnCode>911</ReturnCode>
+            <ReturnDesc>Issuer Timed Out</ReturnDesc>
+            <MessageId>123123453</MessageId>
+            <Extra1>REQ||SHELL.JOHN</Extra1>
+            <Extra2>YYYY-MM-DDThh:mm:ss.mmm+hh:mm</Extra2>
+      </EE_EAI_HEADER>
+      <NotifyApplicationStatusRequest>
+	      <BankId>RAK</BankId>
+	      <Process_Name>DBO</Process_Name>
+	      <ChannelId>DEH</ChannelId>
+	      <WorkitemNumber>Workitem_Number</WorkitemNumber>
+	      <ProspectId>prospect_id</ProspectId>
+		  <Query Unique ID>Query Unique ID</Query Unique ID>
+		  <Query Category>Query Category</Query Category>
+		  <Query Type>Query Type</Query Type>
+		  <Query Remarks>Query Remarks</Query Remarks>
+		  <Document category>Document category</Document category>
+		  <Document Type>Document Type</Document Type>
+		  <Doc Unique ID>Doc Unique ID</Doc Unique ID>
+		  <Doc Remarks>Doc Remarks</Doc Remarks>
+      </NotifyApplicationStatusRequest>
+</EE_EAI_MESSAGE>

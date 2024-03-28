@@ -1,0 +1,40 @@
+<EE_EAI_MESSAGE>
+     <EE_EAI_HEADER>
+            <MsgFormat>NOTIFY_APPLICATION</MsgFormat>
+            <MsgVersion>0001</MsgVersion>
+            <RequestorChannelId>CAS</RequestorChannelId>
+            <RequestorUserId>RAKUSER</RequestorUserId>
+            <RequestorLanguage>E</RequestorLanguage>
+            <RequestorSecurityInfo>secure</RequestorSecurityInfo>
+            <ReturnCode>911</ReturnCode>
+            <ReturnDesc>Issuer Timed Out</ReturnDesc>
+            <MessageId>123123453</MessageId>
+            <Extra1>REQ||SHELL.JOHN</Extra1>
+            <Extra2>YYYY-MM-DDThh:mm:ss.mmm+hh:mm</Extra2>
+      </EE_EAI_HEADER>
+      <NotifyApplicationStatusRequest>
+	      <BankId>RAK</BankId>
+	      <Process_Name>DBO</Process_Name>
+	      <ChannelId>DEH</ChannelId>
+	      <WorkitemNumber>Workitem_Number</WorkitemNumber>
+	      <ProspectId>prospect_id</ProspectId>
+		  <CompanyCategory>Sole</CompanyCategory>
+		  <TL Number>TL Number</TL Number>
+		  <Trade Name>Trade Name</Trade Name>
+		  <TL Issuing Authority>TL Issuing Authority</TL Issuing Authority>
+		  <TL Issuing Authority Emirate>TL Issuing Authority Emirate</TL Issuing Authority Emirate>
+		  <TL Expiry Date>TL Expiry Date</TL Expiry Date>
+		  <TL Type of Office>TL Type of Office</TL Type of Office>
+		  <License Type>License Type</License Type>
+		  <Country of Incorporation>Country of Incorporation</Country of Incorporation>
+		  <Date of incorporation>Date of incorporation</Date of incorporation>
+		  <Company Name>Company Name</Company Name>
+		  <Company Short Name>Company Short Name</Company Short Name>
+		  <Name on Cheque Book>Name on Cheque Book</Name on Cheque Book>
+		  <Full Name>Full Name</Full Name>
+		  <First Name>First Name</First Name>
+		  <Middle Name>Middle Name</Middle Name> 
+		  <Last Name>Last Name</Last Name>
+		  <Name on Debit Card>Name on Debit Card</Name on Debit Card>
+      </NotifyApplicationStatusRequest>
+</EE_EAI_MESSAGE>

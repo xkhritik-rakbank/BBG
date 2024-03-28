@@ -1,0 +1,60 @@
+[ INFO] 07-Mar-2023 12:31:34 (StartUtility.java:61)
+Starting Utility
+
+[ INFO] 07-Mar-2023 12:32:22 (StartUtility.java:61)
+Starting Utility
+
+[ INFO] 07-Mar-2023 12:35:43 (StartUtility.java:61)
+Starting Utility
+
+[ INFO] 07-Mar-2023 12:36:30 (StartUtility.java:61)
+Starting Utility
+
+[ INFO] 07-Mar-2023 12:40:40 (StartUtility.java:61)
+Starting Utility
+
+[DEBUG] 07-Mar-2023 12:40:55 (CommonConnection.java:64)
+Inside ConnectCabinet
+
+[DEBUG] 07-Mar-2023 12:40:55 (CommonConnection.java:79)
+Input XML for Connect Cabinet: <?xml version="1.0"?>
+<WMConnect_Input>
+<Option>WMConnect</Option>
+<EngineName>rakcas</EngineName>
+<Participant>
+<Name>rakbpmutility</Name>
+<Password>xxxx</Password>
+<Scope></Scope>
+<UserExist>N</UserExist>
+<Locale>en-us</Locale>
+<ParticipantType>U</ParticipantType>
+</Particpant>
+</WMConnect_Input>
+
+[DEBUG] 07-Mar-2023 12:40:55 (CommonConnection.java:113)
+In WF NG Execute : 2809
+
+[ INFO] 07-Mar-2023 12:42:07 (StartUtility.java:61)
+Starting Utility
+
+[ INFO] 07-Mar-2023 12:42:47 (StartUtility.java:61)
+Starting Utility
+
+[DEBUG] 07-Mar-2023 12:42:55 (CommonConnection.java:64)
+Inside ConnectCabinet
+
+[DEBUG] 07-Mar-2023 12:43:22 (CommonConnection.java:79)
+Input XML for Connect Cabinet: <?xml version="1.0"?>
+<WMConnect_Input>
+<Option>WMConnect</Option>
+<EngineName>rakcas</EngineName>
+<Participant>
+<Name>rakbpmutility</Name>
+<Password>xxxx</Password>
+<Scope></Scope>
+<UserExist>N</UserExist>
+<Locale>en-us</Locale>
+<ParticipantType>U</ParticipantType>
+</Particpant>
+</WMConnect_Input>
+
